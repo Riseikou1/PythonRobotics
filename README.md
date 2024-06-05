@@ -142,7 +142,7 @@ All animation gifs are stored here: [AtsushiSakai/PythonRoboticsGifs: Animation 
 
   ```terminal
   conda env create -f requirements/environment.yml
-  #aaaaa
+  #aaaaa  pisda
   ```
  
 - using pip :
